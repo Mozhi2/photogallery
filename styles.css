@@ -237,6 +237,7 @@ small {
 figcaption {
     font-family: italic, Arial, Helvetica, sans-serif;
     text-align: center;
+    text-transform: uppercase;
 }
 
 
